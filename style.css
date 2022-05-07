@@ -6,7 +6,8 @@ body{
 
 
 span{
-    margin-left: 508px;
+    display: flex;
+    justify-content: center;
     font-size: xx-large;
     font-family: 'Macondo', cursive;
 }
